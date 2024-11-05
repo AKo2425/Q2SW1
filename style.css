@@ -31,8 +31,8 @@
             border-radius: 10px;
         }
 
-         .submitted-info {
-           font-size: 15px;
-           text-align: center;
-           margin-top: 20px;
-         }
+        .submitted-info {
+            font-size:15px;
+            margin-top:20px;
+            text-align:center;
+        }
